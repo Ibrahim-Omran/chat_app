@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "839973994534",
+    "project_id": "chat-app-6e490",
+    "storage_bucket": "chat-app-6e490.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839973994534:android:7f7392515abbb95ce226e7",
+        "android_client_info": {
+          "package_name": "com.chat1.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839973994534-mnt5p04cbqj9v1nl1kaf23jcgppd86qk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq99Xj_c1179N62782uz7d7WcIa4gYbq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839973994534-mnt5p04cbqj9v1nl1kaf23jcgppd86qk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "839973994534-0uf8o7fbd5eoou8ongjifbiut0ssk31p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatCubitApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839973994534:android:a26e99e48356126ae226e7",
+        "android_client_info": {
+          "package_name": "com.example.chat_cubit_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839973994534-mnt5p04cbqj9v1nl1kaf23jcgppd86qk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq99Xj_c1179N62782uz7d7WcIa4gYbq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839973994534-mnt5p04cbqj9v1nl1kaf23jcgppd86qk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "839973994534-0uf8o7fbd5eoou8ongjifbiut0ssk31p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatCubitApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839973994534:android:6a0ad58b044a67bde226e7",
+        "android_client_info": {
+          "package_name": "com.example.chat_room"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839973994534-mnt5p04cbqj9v1nl1kaf23jcgppd86qk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq99Xj_c1179N62782uz7d7WcIa4gYbq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839973994534-mnt5p04cbqj9v1nl1kaf23jcgppd86qk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "839973994534-0uf8o7fbd5eoou8ongjifbiut0ssk31p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatCubitApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839973994534:android:bff8606fbedde2dae226e7",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839973994534-mnt5p04cbqj9v1nl1kaf23jcgppd86qk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq99Xj_c1179N62782uz7d7WcIa4gYbq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839973994534-mnt5p04cbqj9v1nl1kaf23jcgppd86qk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "839973994534-0uf8o7fbd5eoou8ongjifbiut0ssk31p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatCubitApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
